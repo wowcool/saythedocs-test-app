@@ -1,0 +1,14 @@
+{
+  "name": "saythedocs-test-app",
+  "version": "1.0.0",
+  "description": "Test application for Say The Docs",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
